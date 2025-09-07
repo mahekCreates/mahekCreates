@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Mahek!
 
-<!--
-**mahekCreates/mahekCreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate **second-year Software Development student** who thrives at the intersection of technology and creativity.  
+Alongside my coding journey, I'm a **graphic designer**, **brand designer**, **fine art artist**, and **photographer**—I believe in designing experiences, not just solutions.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming:** HTML, CSS, JavaScript, React.js  
+- **Currently Learning:** Python, Java
+- **Design:** Graphic Design, Branding, UI/UX
+- **Art:** Fine Art, Digital Illustration
+- **Photography:** Landscape, Portraits, Landscapes, Artistic Shoots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+My first major project, proudly showcased here!  
+### [mioro](https://github.com/mahekCreates/mioro)
+Check out my [LinkedIn](https://www.linkedin.com/in/mahekdzn) for more on my professional journey.
+
+## Hobbies & Interests
+- 🎨 Painting & Creating New Stuff  
+- 📸 Photography  
+- 🏐 Sports  
+- 🎮 Gaming  
+- 🍿 Anime Enthusiast
+
+## Let's Connect!
+I'm always open to collaborations, freelance work, and creative opportunities.  
+Feel free to reach out if you’re looking for someone who combines **tech skills with artistic vision**!
+
+---
