@@ -5,7 +5,7 @@ I'm a passionate **second-year Software Development student** who thrives at the
 Alongside my coding journey, I'm a **graphic designer**, **brand designer**, **fine art artist**, and **photographer**—I believe in designing experiences, not just solutions.
 
 ## Skills
-- **Programming:** HTML, CSS, JavaScript, React.js  
+- **Programming:** HTML, CSS, JavaScript, React.js, MySQL
 - **Currently Learning:** Python, Java
 - **Design:** Graphic Design, Branding, UI/UX
 - **Art:** Fine Art, Digital Illustration
@@ -17,11 +17,14 @@ My first major project, proudly showcased here!
 Check out my [LinkedIn](https://www.linkedin.com/in/mahekdzn) for more on my professional journey.
 
 ## Hobbies & Interests
-- 🎨 Painting & Creating New Stuff  
-- 📸 Photography  
+- 🎨 UI/UX & Graphic Design
+- 💻 Coding & Building Projects
+- 🖌️ Fine Arts
+- 📸 Photography & Visual Storytelling  
 - 🏐 Sports  
-- 🎮 Gaming  
+- 🎮 Gaming & Esports  
 - 🍿 Anime Enthusiast
+- 🌐 Learning New Languages
 
 ## Let's Connect!
 I'm always open to collaborations, freelance work, and creative opportunities.  
